@@ -22,6 +22,21 @@ This project demonstrates how data visualization can transform complex pandemic 
 
 ---
 
+## 📌 Problem Statement
+
+The Covid-19 pandemic generated large volumes of global data, making it difficult for stakeholders to interpret and compare trends in total cases, new cases, deaths, and fatality rates across countries and over time.  
+There was a clear need for a user-friendly, visual solution to turn complex data into clear insights for informed decision-making.
+
+---
+
+## ✅ Solution
+
+This project provides an interactive **Power BI Dashboard** that transforms raw Covid-19 data into dynamic visuals.  
+Users can filter data by country and demographics (median age), analyze trends over time, and gain key insights through intuitive charts and KPIs.  
+The dashboard is published on **Power BI Service**, with the full project source available on **GitHub** for transparency and reuse.
+
+---
+
 ## ✅ Key Features
 
 - 📈 **Dynamic Visuals:** Combination of bar charts, line charts, and pie charts for intuitive trend analysis.
