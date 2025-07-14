@@ -50,7 +50,7 @@ The dashboard is published on **Power BI Service**, with the full project source
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+   git clone https://github.com/Anugrah0619/Covid-19-Analysis.git
 
 2. **Open the `.pbix` file**
    - Install **Power BI Desktop** if you haven’t already.
